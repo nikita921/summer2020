@@ -18,12 +18,18 @@ These are my solutions and the purpose of this repository is to display/backup m
 | 4 | 130 / 140 | 
 
 
-##### Concepts Covered
+#### Concepts Covered
 HW 1: Linked List
+
 HW 2: Recursion
+
 HW 3: Sorting
+
 HW 4: Trees
 
+
 Project 2: Doubly Linked List
+
 Project 3: Recursion
+
 Project 4: OOP
